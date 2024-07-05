@@ -26,10 +26,10 @@
 ![Screenshot 1](https://github.com/nrrri/guessTheFlag/assets/93938748/00a81b68-b8a7-4e6a-901b-a0b1a6de53a2)
 *Example of the main game screen with multiple-choice options.*
 
-![Screenshot 2](https://github.com/nrrri/guessTheFlag/assets/93938748/3df78d71-abeb-43bd-a438-b357a4b4f5a7)
+![Screenshot 2](https://github.com/nrrri/guessTheFlag/assets/93938748/65f5c20e-2c1a-4abb-b71e-f94a01f84606)
 *Show the score when the answer is correct*
 
-![Screenshot 3](https://github.com/nrrri/guessTheFlag/assets/93938748/65f5c20e-2c1a-4abb-b71e-f94a01f84606)
+![Screenshot 3](https://github.com/nrrri/guessTheFlag/assets/93938748/3df78d71-abeb-43bd-a438-b357a4b4f5a7)
 *Show the score when the answer is worng*
 
 ## Installation
